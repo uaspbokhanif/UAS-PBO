@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "project_pbo_khanif"
+  ],
+  "packages": [
+    {
+      "name": "project_pbo_khanif",
+      "version": "1.0.0",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
