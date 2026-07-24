@@ -1,0 +1,5 @@
+name: project_pbo_khanif
+description: Aplikasi CLI manajemen perpustakaan untuk UAS PBO Lanjut.
+version: 1.0.0
+environment:
+  sdk: ^3.0.0
